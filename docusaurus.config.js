@@ -60,7 +60,7 @@ const config = {
       navbar: {
         title: 'Howl Social Guides',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo',
           src: 'img/howl-sm.png',
         },
         items: [
@@ -68,7 +68,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Howl Basics',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
