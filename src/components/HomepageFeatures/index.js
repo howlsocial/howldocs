@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Social for the Interchain',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/social.svg').default,
     description: (
       <>
         Howl is built on Cosmos, making it fast and secure. 
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'DAOs by Default',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/admin.svg').default,
     description: (
       <>
         We support DAOs and multi-sigs as first-class citizens. 
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Support Creators',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/guitar.svg').default,
     description: (
       <>
         Like content? Your likes and staking support the creators you enjoy. 
