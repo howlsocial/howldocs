@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+frey:
+  name: the frey
+  title: Co-founder
+  url: https://github.com/the-frey
+  image_url: https://github.com/the-frey.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+callum:
+  name: callum
+  title: Co-founder
+  url: https://github.com/callum-a
+  image_url: https://github.com/callum-a.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+aswever:
+  name: aswever
+  title: Co-founder
+  url: https://github.com/aswever
+  image_url: https://github.com/aswever.png

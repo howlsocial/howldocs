@@ -2,46 +2,42 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Howl Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Use the sidebar on the left to get started with Howl.
 
-## Getting Started
+Common topics are covered, such as:
 
-Get started by **creating a new site**.
+- Creating a user profile
+- Connecting to Howl
+- Posting, staking and following
+- Sending one-off or recurring payments
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## FAQ
 
-### What you'll need
+❓ Can I use Howl without a DENS alias?
+🅰️ No, not at this time.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+❓ How do I set a PFP?
+🅰️ Update the image field on the DENS NFT.
 
-## Generate a new site
+❓ The airdrop site says I'm not eligible, why?
+🅰️ The airdrop was built off of name holders and eligible stakers at snapshot time on May 4th. Not all Juno stakers are eligible.
 
-Generate a new Docusaurus site using the **classic template**.
+❓ Is there a clawback?
+🅰️ Yes, one month after mainnet launch.
 
-The classic template will automatically be added to your project after you run the command:
+❓ How do I stake my HOWL?
+🅰️ Click the ❤️ on a post and choose an amount to stake to that post. You'll get rewards, and so will the post owner.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+❓ What is the token contract address?
+🅰️ juno1...
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+❓ When do I get rewards?
+🅰️ Rewards are distributed on an epoch system. On mainnet this is every day for 14 days.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+❓ What happens when I stake?
+🅰️ Your stake is locked for 14 days, and you earn while it is staked. After that, it is unbonded and you must re-bond to continue earning rewards.
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+❓ What is the breakdown of rewards?
+🅰️ 60% goes to the staker/delegator. 20% goes to the post creator. 10% goes to the Howl DAO. 10% goes to the dev fund.
