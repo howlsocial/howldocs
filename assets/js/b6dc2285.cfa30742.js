@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhowldocs=self.webpackChunkhowldocs||[]).push([[396],{6876:l=>{l.exports=JSON.parse('[{"label":"alpha","permalink":"/howldocs/blog/tags/alpha","count":1},{"label":"testing","permalink":"/howldocs/blog/tags/testing","count":1}]')}}]);
