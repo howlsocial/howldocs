@@ -15,13 +15,13 @@ const FeatureList = [
     ),
   },
   {
-    title: 'DAO support by Default',
+    title: 'DAOs by Default',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         We support DAOs and multi-sigs as first-class citizens. 
         Want to post signed messages as a DAO or multi-sig? We've got you covered. 
-        You can also comment on and reference DAODAO proposals out-of-the-box.
+        Comment on and reference DAODAO proposals out-of-the-box.
       </>
     ),
   },
