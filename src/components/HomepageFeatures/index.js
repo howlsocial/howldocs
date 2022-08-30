@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Social for the Interchain',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Howl is built on Cosmos, making it fast and secure. 
+        After launch, it will have integrations with web2 socials. 
+        Post on Howl, and have the post broadcast elsewhere.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'DAO support by Default',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We support DAOs and multi-sigs as first-class citizens. 
+        Want to post signed messages as a DAO or multi-sig? We've got you covered. 
+        You can also comment on and reference DAODAO proposals out-of-the-box.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Support Creators',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Like content? Your likes and staking support the creators you enjoy. 
+        Want to make it regular? Howl Pay makes repeated payments easy.
       </>
     ),
   },
