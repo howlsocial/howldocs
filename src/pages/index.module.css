@@ -8,6 +8,10 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: #f2b705;
+  background-position: center;
+  background-image: url('../../static/img/logo.png');
+  background-size: 100%;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +24,16 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/*.hero--primary {
+  background-image: url('../../static/img/logo.png');
+}*/
+
+.footer {
+  background-color: #18626b;
+}
+
+.footer--dark {
+  background-color: #18626b;
 }
