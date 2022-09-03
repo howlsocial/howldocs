@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Howl Social',
   tagline: 'Howl Guides and Tutorials',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/howldocs/',
+  url: 'https://docs.howl.social',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/howl-sm.png',
