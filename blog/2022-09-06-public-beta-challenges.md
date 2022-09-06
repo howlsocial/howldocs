@@ -17,6 +17,10 @@ Here are the $HOWL public beta challenges!
 
 Some challenges will require the team to calculate who won, so winners may not be announced for several days afterward.
 
+## Check eligibility and claim
+
+Use the [Airdrop claim tool](https://testnet-claim.howl.social/) to check your eligibility and claim.
+
 ## Challenges
 
 The challenges are:
