@@ -11,7 +11,7 @@ Here are the $HOWL public beta challenges!
 
 **All challenges start after claim begins. This is targeted for Thursday 8th September (2022-09-08) at 1300UTC.**
 
-**All challenges end on Monday 12th September (2022-09-12) at 1300UTC.**
+**All challenges end on Wednesday 14th September (2022-09-12) at 1300UTC.**
 
 **For challenge 1.1. YOU NEED TO ALREADY BE IN THE AIRDROP TO BE ELIGIBLE**. To check this, go to the airdrop claim site. You should be able to see `<your-address> can claim X HOWL` after connecting your wallet. If you are not eligible, you will see `<your-address> was not eligible for the Howl airdrop`.
 
