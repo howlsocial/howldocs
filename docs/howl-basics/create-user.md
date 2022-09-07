@@ -37,7 +37,7 @@ Create a DENS name to login to HOWL.
 # Update Metadata and Burn DENS name
 
    1) Go to the home page of DENS website and click on Manage
-   2) Select the Name you want to Burn or change the METADATA for
+   2) Select the Name you want to Burn or change the Metadata for
       
       ### Updata Metadata
         
