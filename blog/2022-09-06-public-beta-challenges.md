@@ -9,7 +9,7 @@ tags: [beta, testing]
 
 Here are the $HOWL public beta challenges!
 
-**All challenges start after claim begins. This is targeted for Thursday 8th September (2022-09-08) at 1300UTC.**
+**All challenges start after claim begins. This is targeted for Wednesday 7th September (2022-09-08) at 0900UTC.**
 
 **All challenges end on Wednesday 14th September (2022-09-12) at 1300UTC.**
 
