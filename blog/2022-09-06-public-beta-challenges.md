@@ -30,19 +30,19 @@ The challenges are:
         1. i.e. if you already are eligible for 50 HOWL, you can earn 50 more, for a total of 100.
         2. **NOTE:** *only addresses already in the airdrop are eligible for the additional HOWL*[0]
 2. ***Documentation***. Submit a pull-request with your guide to https://github.com/howlsocial/howldocs in order to claim these bounties[1]:
-    1. Getting started with HOWL guides:
-        1. **Claiming:** How to claim your airdrop - 500 HOWL
-        2. **Create user:** Create a DENS name, set a primary alias. Include how to update and burn if necessary - 1k HOWL
-        3. **Connecting:** Connect wallet to HOWL, connect DENS alias, add HOWL contract to Keplr - 1k HOWL
-        4. **Posting and staking**: how to create a post, how to stake to others’ posts - 1k HOWL
-        5. **Find users to follow:** how to find users, navigate hashtags and reply to posts - 1k HOWL
-        6. **DAOs:** How to post as a DAO, how to reference DAO props etc within HOWL - 1k HOWL
-        7. **Howl Pay:** How to send one-off payments. How to subscribe, how to see your subscribers and those you are paying - 1k HOWL
+    1. Getting started with HOWL guides (only 1 guide needs writing for each):
+        1. **Claiming:** How to claim your airdrop - Accepted PR = 500 HOWL
+        2. **Create user:** Create a DENS name, set a primary alias. Include how to update and burn if necessary - Accepted PR = 1k HOWL
+        3. **Connecting:** Connect wallet to HOWL, connect DENS alias, add HOWL contract to Keplr - Accepted PR = 1k HOWL
+        4. **Posting and staking**: how to create a post, how to stake to others’ posts - Accepted PR = 1k HOWL
+        5. **Find users to follow:** how to find users, navigate hashtags and reply to posts - Accepted PR = 1k HOWL
+        6. **DAOs:** How to post as a DAO, how to reference DAO props etc within HOWL - Accepted PR = 1k HOWL
+        7. **Howl Pay:** How to send one-off payments. How to subscribe, how to see your subscribers and those you are paying - Accepted PR = 1k HOWL
 
 Notes on challenges:
 
 - [0] once again - this is only open to users already eligible for the airdrop. If you’re not eligible, you will earn nothing by posting, though you’re welcome to try the app and help us test :)
-- [1] note that a bounty will only be paid on an accepted pull-request. For now we’re looking for guides in English, and there may be future bounties for translations of those, once we have high-quality guides.
+- [1] note that a bounty will only be paid on an accepted pull-request. For now we’re looking for guides in English, and there may be future bounties for translations of those, once we have high-quality guides. _ONLY ONE BOUNTY WILL BE PAID FOR EACH GUIDE_.
 
 ## Bug Bounties
 
