@@ -35,15 +35,15 @@ sidebar_position: 6
    
    1) After you have loaded up your Dao alias Select **Propose Post** in the left pane 
 
-      ![image](https://user-images.githubusercontent.com/102655795/188990839-81a72ae9-7489-4444-8c06-91982a898e45.png)
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/Propose%20button.png)
       
    2) Type your proposal in the empty space and click propose
    
-      ![image](https://user-images.githubusercontent.com/102655795/188991630-901beb0e-5247-47c9-b496-1c42d60c2f95.png)
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/Proposal%20text.png)
       
       A proposal will be created on your Dao and wqill be visible both on DaoDao and Howl social
       
-      ![image](https://user-images.githubusercontent.com/102655795/188992972-455c353b-68ed-4983-8ba0-118a0a472ff9.png)
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/proposal.png)
 
 
      
