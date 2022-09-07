@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ### Send one-off payments 
     
-   1) Open the profile of person you want to send $HOWL to 
+   1) Open the profile of the person you want to send $HOWL to 
    2) Click on the highlighted button in the image below which can be located at the top of Howl app page 
 
       ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/HOWL-PAY/send%20Howl%202.png)
@@ -27,7 +27,7 @@ sidebar_position: 7
    
       ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/HOWL-PAY/subscribe.png)
       
-   5) type the amount you want to set for recurring payments. Click on **Subscribe** and aprrove the txn
+   5) Type the amount you want to set for recurring payments. Click on **Subscribe** and aprrove the txn
       
       ![image](https://raw.githubusercontent.com/bilalkhan360/howldocs/ef2fc8f2b718abc4567a22c7187ea08f0cea9d1a/static/img/HOWL-PAY/amount.png)
       
