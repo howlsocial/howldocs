@@ -41,7 +41,7 @@ sidebar_position: 6
    
       ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/Proposal%20text.png)
       
-      A proposal will be created on your Dao and wqill be visible both on DaoDao and Howl social
+      A proposal will be created on your Dao and will be visible both on DaoDao and Howl social 
       
       ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/proposal.png)
 
