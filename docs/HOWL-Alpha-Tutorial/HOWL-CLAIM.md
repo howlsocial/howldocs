@@ -1,14 +1,7 @@
-## Pasca Instalasi
-Selanjutnya Anda harus memastikan validator Anda menyinkronkan blok. Anda dapat menggunakan perintah di bawah ini untuk memeriksa status sinkronisasi
-console
-sourced status 2>&1 | jq .SyncInfo
-## Membuat Wallet
-Untuk membuat dompet baru Anda dapat menggunakan perintah di bawah ini. Jangan lupa simpan mnemonicnya
-console
-sourced keys add wallet
-(OPSIONAL) Untuk memulihkan dompet Anda menggunakan frase seed
-console
-sourced keys add wallet --recover
-Untuk mendapatkan daftar dompet saat ini
-console
-sourced keys list
+##CLAIM $HOWL AIRDROP
+The first thing you have to do is login to your KEPLR wallet
+Than you can go to: https://testnet-claim.howl.social/, connect with your KEPLR wallet
+<p align="center">
+  <img height="auto" height="auto" src="https://i.postimg.cc/vc3JGsbS/Screenshot-21.png">
+</p>
+You'll requested to add "Uni wallet-3" chain, wich mean is JUNO Testnet, and than Approve.
