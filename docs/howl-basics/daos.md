@@ -44,6 +44,50 @@ sidebar_position: 6
       A proposal will be created on your Dao and will be visible both on DaoDao and Howl social 
       
       ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/proposal.png)
+      
+   ### How to vote on DAO proposal
+   
+   1) Go to the Explore tab and search for the Dao profile in the username space. Then open the Dao profile
+       
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/Search%20dao.png)
+ 
+      
+   2) After opening the profile Go to the proposals tab
+      
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/proposal%20tab.png)
+      
+   3) There are 3 ways you can vote a prop 
+      
+      Click on the thumbs up icon to vote yes 
+      
+      click on the thumbs down icon to vote no
+      
+      click on the three dotted menu and click the **vote: abastain** button to vote no
+      
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/proposal%20vote.png)
+      
+   ### How to execute a Proposal
+   
+   1) Follow step 1-2 from **How to vote on DAO proposal** guide
+
+
+   2) After the Dao proposal has passed. click on the play icon under the proposal to execute the action in the proposal
+
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/proposal%20execute.png)
+      
+      You can confirm if the proposal was executed successfully by clicking view on DAODAO icon under the proposal and then click on the TX Link under the Details           section which will take you to the Txn explorer
+      
+      ![image](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/view%20on%20daodao.png)
+      
+      ![Check execute Txn](https://github.com/bilalkhan360/howldocs/blob/main/static/img/DAO%20Docs/Check%20execute%20Txn.png)
+
+
+
+
+      
+
+      
+
 
 
      
