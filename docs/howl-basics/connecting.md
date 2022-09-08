@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Connect your DENS name and login to HOWL.
 
-The first thing you have to do is open the website [DEnS-WEBSITE](https://beta.howl.social/), then connect your KEPLR wallet on the yellow button as follows:
+The first thing you have to do is open the website [HOWL-WEBSITE](https://beta.howl.social/), then connect your KEPLR wallet on the yellow button as follows:
 ![banner](pathname:///static/img/Screenshot_29.png)
 
 Then you can see the main DeNS that we made earlier, here I use 0htjit according to the previous tutorial that I shared.
