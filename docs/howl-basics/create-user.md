@@ -16,7 +16,7 @@ Create a DENS name to login to HOWL.
 
 ![image](/img/188882982-39d6b38b-1cf4-454f-be72-b7f1158ffd94.png)
 
-4. After typing in the profile data click on Create username and approve the Txn request
+4. After typing in the profile data click on Create username and approve the transaction request
 
 ![image](/img/188883781-6e573e00-624b-446c-85d0-e5bcf2551bc2.png)
 
