@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Posting and Staking
+# Posting and staking
 
 ## How to post
 
