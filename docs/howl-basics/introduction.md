@@ -1,3 +1,8 @@
-Here is the video introduction to howl Social.
-It shows you how to claim junox(testnet juno), claim howl airdrop, buy densh name, and use howl social platform.
+Here is a video introduction to Howl Social by Don Cryptonium.
+It shows you the following topics:
+- Get junox from the faucet (testnet Juno)
+- Claim the Howl airdrop
+- Buy a Dens name
+- Basic usage of the Howl Social platform
+
 Watch Here: https://youtu.be/nC2kmRmFbGw
