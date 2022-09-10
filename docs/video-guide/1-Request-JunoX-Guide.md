@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # How to get JUNOX
 
-How to Request JunoX testnet token: 
+How to Request JunoX testnet token: https://youtu.be/HwrjYCeBQt4
