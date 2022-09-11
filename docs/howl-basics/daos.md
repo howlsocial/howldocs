@@ -59,7 +59,7 @@ Click on the thumbs up icon to vote yes
 
 click on the thumbs down icon to vote no
 
-click on the three dotted menu and click the **vote: abastain** button to vote no
+click on the three dotted menu and click the **Vote: Abstain** button to vote abstain 
 
 ![image](/img/dao/proposal-vote.png)
 
