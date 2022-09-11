@@ -13,7 +13,7 @@ Connect your DENS name and login to HOWL.
 
 After connecting Keplr to the app it will automatically Load your alias if you own a DENS name.
 
-If you don't own a DENS name follow [the previous guide](/docs/howl-basics/create-user.md#create-a-dens-name)to create one
+If you don't own a DENS name follow [the previous guide](/docs/howl-basics/create-user.md#create-a-dens-name) to create one
 
 ![image](/img/188917338-7142f137-e52e-4170-b31d-314b1ebc023f.png)
 
