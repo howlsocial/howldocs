@@ -65,7 +65,7 @@ click on the three dotted menu and click the **Vote: Abstain** button to vote ab
 
 ## How to execute a Proposal
 
-1. Follow step 1-2 from **How to vote on DAO proposal** guide
+1. Follow step 1-2 from [**How to vote on DAO proposal**](https://github.com/bilalkhan360/howldocs/blob/main/docs/howl-basics/daos.md#how-to-vote-on-dao-proposal) guide
 
 2. After the Dao proposal has passed. click on the play icon under the proposal to execute the action in the proposal
 
