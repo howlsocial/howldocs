@@ -4,10 +4,20 @@
         <title>Howl Social Blog</title>
         <link>https://docs.howl.social/blog</link>
         <description>Howl Social Blog</description>
-        <lastBuildDate>Tue, 06 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Public Beta Debrief]]></title>
+            <link>https://docs.howl.social/blog/public-beta-debrief</link>
+            <guid>public-beta-debrief</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you took part in our Beta test, then thank you!]]></description>
+            <content:encoded><![CDATA[<p>If you took part in our Beta test, then thank you!</p><p>Without all our testers, getting to mainnet would be taking us a lot longer.</p><p>We were blown away by the scale of response - thanks to everybody that had feedback, feature suggestions or helped out in some way.</p><p>Again, like last time, we have some numbers.</p><ul><li>9.42k unique users took part in the testnet</li><li>1,538,091 HOWLx (testnet HOWL) was claimed</li><li>All our documentation challenges were completed</li></ul><p>However, this time there were also some snags - which makes sense, as we get closer to mainnet.</p><ul><li>2 severity 1 bugs</li><li>8 minor bugs</li></ul><p>So what does this mean?</p><p>Well, we have some windows to mend, and then we will run either a closed Beta2 net, or a final open test before we go to mainnet.</p><p>This has pushed our timings back by a couple of weeks, but not by a massive amount.</p>]]></content:encoded>
+            <category>beta</category>
+            <category>testing</category>
+        </item>
         <item>
             <title><![CDATA[Public Beta Challenges]]></title>
             <link>https://docs.howl.social/blog/public-beta-challenges</link>
