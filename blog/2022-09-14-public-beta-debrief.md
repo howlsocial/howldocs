@@ -22,8 +22,12 @@ However, this time there were also some snags - which makes sense, as we get clo
 - 2 severity 1 bugs
 - 8 minor bugs
 
+## What's next - the road to mainnet
+
 So what does this mean?
 
 Well, we have some windows to mend, and then we will run either a closed Beta2 net, or a final open test before we go to mainnet.
 
 This has pushed our timings back by a couple of weeks, but not by a massive amount.
+
+Thanks to everybody for their interest in the project and we'll have more updates soon!
