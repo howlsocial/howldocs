@@ -4,10 +4,21 @@
         <title>Howl Social Blog</title>
         <link>https://docs.howl.social/blog</link>
         <description>Howl Social Blog</description>
-        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Road to Mainnet]]></title>
+            <link>https://docs.howl.social/blog/the-road-to-mainnet</link>
+            <guid>the-road-to-mainnet</guid>
+            <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[By far the most common question we get is, "wen mainnet?"]]></description>
+            <content:encoded><![CDATA[<p>By far the most common question we get is, "wen mainnet?"</p><p>The answer now is the same as it always has been - "when it's ready."</p><p>We're a small team - there's only three of us, working part time, with no VC backing - so things take time if they're to be done right.</p><p>However, those of you that have taken part in the public betas will know that we're pretty close now, so we can reveal what's left to get Howl live.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="pre-launch-septemberoctober">Pre-launch (September/October)<a class="hash-link" href="#pre-launch-septemberoctober" title="Direct link to heading">​</a></h2><p>Before we go live, we have to finish dealing with the bugs discovered on the previous Beta. Then we will run another Beta test as a dry-run for mainnet.</p><p>Juno's Uni testnet will be restarted on Friday 2022-09-23, so we will start preparing for a second Beta test after that. We hope to have it live in the next 10 days or so.</p><p>The testing goals of this will be:</p><ul><li>Checking system integrity</li><li>Checking bugs are fixed</li><li>Checking mainnet allocations (including beta drop) are correct</li><li>New functionality for Howl Pay</li></ul><p>Assuming that this works as planned, we will then start putting together the configuration for a mainnet release in the following weeks.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="post-launch-octobernovember">Post-launch (October/November)<a class="hash-link" href="#post-launch-octobernovember" title="Direct link to heading">​</a></h2><p>As soon as we go live, our focus will be on:</p><ul><li>bringing up the Twitter bridge, to allow your Howl posts to be posted on Twitter automatically</li><li>finishing the long-form blogging module for Howl</li></ul><p>These features will form the v1.1.x version of Howl.</p><p>We have some other things that might make it into v1.1, for example ergonomic improvements that mean those of you using a ledger don't need to sign every transaction with the hardware device in order to pay gas.</p>]]></content:encoded>
+            <category>beta</category>
+            <category>testing</category>
+            <category>mainnet</category>
+        </item>
         <item>
             <title><![CDATA[Public Beta Debrief]]></title>
             <link>https://docs.howl.social/blog/public-beta-debrief</link>
