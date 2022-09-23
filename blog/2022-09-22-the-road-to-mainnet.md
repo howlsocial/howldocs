@@ -32,8 +32,8 @@ Assuming that this works as planned, we will then start putting together the con
 
 As soon as we go live, our focus will be on:
 
-- bringing up the Twitter bridge, to allow your Howl posts to be posted on Twitter automatically
-- finishing the long-form blogging module for Howl
+- Bringing up the Twitter bridge, to allow your Howl posts to be posted on Twitter automatically
+- Finishing the long-form blogging module for Howl
 
 These features will form the v1.1.x version of Howl.
 
