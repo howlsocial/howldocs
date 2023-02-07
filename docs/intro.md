@@ -30,6 +30,11 @@ ___
 🅰️ The airdrop was built off of name holders and eligible stakers at snapshot time on May 4th. Not all Juno stakers are eligible.
 ___
 
+❓ **When does the airdrop end?**
+
+🅰️ On the 28th Feb 2023.
+___
+
 ❓ **Is there a clawback?**
 
 🅰️ Yes, one month after mainnet launch.
