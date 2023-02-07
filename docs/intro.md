@@ -42,7 +42,7 @@ ___
 
 ❓ **What is the token contract address?**
 
-🅰️ juno1...
+🅰️ juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz
 ___
 
 ❓ **When do I get rewards?**
